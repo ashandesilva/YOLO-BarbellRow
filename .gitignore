@@ -1,3 +1,6 @@
 images/
 filtered_images/
 runs/
+runs - yolopose ipynb/
+runs train/
+runs val/
